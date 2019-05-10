@@ -8,7 +8,7 @@
 
 This repisitory contains all my projects for [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
-## [Syllabus](https://github.com/amdee/Full-Stack-Nanodegree-Udacity/blob/master/Syllabus.pdf)
+## [![Syllabus](https://github.com/amdee/Full-Stack-Nanodegree-Udacity/blob/master/Syllabus.pdf)]
 
 ## Projects
 
