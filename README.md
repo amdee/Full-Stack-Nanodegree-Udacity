@@ -17,7 +17,7 @@ This repisitory contains all my projects for [Full Stack Web Developer Nanodegre
 
 
 
-## [Full Stack Web Developer Nanodegree Syllabus Summary](Full-Stack-Web-Developer-Nanodegree-Syllabus-Summary)
+## Full Stack Web Developer Nanodegree Syllabus Summary
 
 <details>
   <summary>View Details</summary>
