@@ -22,7 +22,7 @@ This repisitory contains all my projects for [Full Stack Web Developer Nanodegre
 <details>
   <summary>View Details</summary>
 
-See [Syllabus](/Full-Stack-Nanodegree-Udacity/Syllabus.pdf) for detail description of courses covered in the program.
+See [Syllabus](https://github.com/amdee/Full-Stack-Nanodegree-Udacity/blob/master/Syllabus.pdf) for detail description of courses covered in the program.
 
 #### Part 1: Developer Tools
 
