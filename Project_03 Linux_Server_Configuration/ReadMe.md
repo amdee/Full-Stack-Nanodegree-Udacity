@@ -25,4 +25,3 @@ The project consists of securing and setting up a Linux server to host the [Item
 
 This Project has been configured according to the  [Project specification](https://review.udacity.com/#!/rubrics/2007/view)
 
-I will update this README after my project has been review and post it in [my github repository](https://github.com/amdee/Full-Stack-Web-Developer-Nanodegree-projects)
