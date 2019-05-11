@@ -12,7 +12,7 @@ The project consists of securing and setting up a Linux server to host the [Item
   - grader private key: 
   
 
-  - can loging in as (ssh grader@104.248.62.80 -p 2200)
+
   
 
 #  Setting up server
