@@ -10,7 +10,7 @@ This repisitory contains all my projects for [Full Stack Web Developer Nanodegre
 
 ## Projects
 
-* [Project 1: Logs Analysis](https://github.com/amdee/Full-Stack-NanodegreeUdacity/tree/master/Project_01)
+* [Project 1: Logs Analysis](#Logs-Analysis)
 * [Project 2: Item Catalogs](#Item-Catalogs)
 * [Project 3: Linux Server Configuration](#Linux-Server-Configuration)
 
